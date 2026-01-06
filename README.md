@@ -40,7 +40,7 @@ Currently working with **Next.js, full-stack systems, and RAG-based AI features*
 
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Node.js, REST APIs  
-**AI / ML:** RAG, PyTorch, Computer Vision, NLP  
+**AI / ML:** RAG, Deep learning, CV, PyTorch, Computer Vision, NLP  
 **Databases:** MongoDB, MySQL  
 
 ---
