@@ -2,7 +2,7 @@
 
 # Muhammad Mateen
 
-**Associate Software Engineer**
+**Software Engineer**
 
 *Building production-ready web and AI-powered applications*
 
